@@ -17,4 +17,4 @@ My users should be able to:
 * SCSS
 
 ## Frontend Mentor
-[Frontend Mentor](https://www.frontendmentor.io)# FrontendMentor_Project_1
+[Frontend Mentor](https://www.frontendmentor.io) FrontendMentor_Project_1
